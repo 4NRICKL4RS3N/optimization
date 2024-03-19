@@ -23,13 +23,13 @@
 				</div>
 			</div>
 			<div style="float: left; margin: 5px 0px 0px 23px;">
-				<a href="../index.php">
-					<img style=" height: 75px; width: 130px;" src="../image/cart.png">
+				<a href="index.php">
+					<img style=" height: 75px; width: 130px;" src="image/cart.png">
 				</a>
 			</div>
 			<div class="">
 				<div id="srcheader">
-					<form id="newsearch" method="get" action="../search.php">
+					<form id="newsearch" method="get" action="search.php">
 					        <input type="text" class="srctextinput" name="keywords" size="21" maxlength="120"  placeholder="Search Here..."><input type="submit" value="search" class="srcbutton" >
 					</form>
 				<div class="srcclear"></div>

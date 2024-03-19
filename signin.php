@@ -147,7 +147,7 @@ $_POST['last_name'] = trim($_POST['last_name']);
 		gtag('config', 'G-CZFCXGTHXV');
 	</script>
 	</head>
-	<body class="home-welcome-text" style="background-image: url(image/homebackgrndimg2.png);">
+	<body class="home-welcome-text" style="background-image: url(image/homebackgrndimg2-min.png);">
 		<div class="homepageheader" style="position: inherit;">
 			<div class="signinButton loginButton">
 				<div class="uiloginbutton signinButton loginButton" style="margin-right: 40px;">
@@ -159,7 +159,7 @@ $_POST['last_name'] = trim($_POST['last_name']);
 			</div>
 			<div style="float: left; margin: 5px 0px 0px 23px;">
 				<a href="index.php">
-					<img style=" height: 75px; width: 130px;" src="image/cart.png" alt="cart">
+					<img style=" height: 75px; width: 130px;" src="image/cart-min.png" alt="cart">
 				</a>
 			</div>
 			<div class="">

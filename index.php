@@ -58,7 +58,7 @@ if (!isset($_SESSION['user_login'])) {
 		</div>
 		<div style="float: left; margin: 5px 0px 0px 23px;">
 			<a href="index.php">
-				<img style=" height: 75px; width: 130px;" src="image/cart.png">
+				<img style=" height: 75px; width: 130px;" src="image/cart-min.png">
 			</a>
 		</div>
 		<div class="">
@@ -71,7 +71,7 @@ if (!isset($_SESSION['user_login'])) {
 		</div>
 	</div>
 	<div class="home-welcome">
-		<div class="home-welcome-text" style="background-image: url(image/background.jpg); height: 380px; ">
+		<div class="home-welcome-text" style="background-image: url(image/background-min.jpg); height: 380px; ">
 			<div style="padding-top: 180px;">
 				<div style=" background-color: #dadbe6;">
 					<h1 style="margin: 0px;">Welcome To nita's online grocery</h1>
@@ -87,59 +87,59 @@ if (!isset($_SESSION['user_login'])) {
 		<div style="padding: 20px 30px; width: 85%; margin: 0 auto;">
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/NoodlesCanned.php">
-							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi">
+					<div class="home-prodlist-img"><a href="categories.php?cat=noodles">
+							<img src="./image/product/noodles/n-min.jpg" class="home-prodlist-imgi">
 						</a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Snacks.php">
-							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi">
+					<div class="home-prodlist-img"><a href="categories.php?cat=snack">
+							<img src="./image/product/snack/sn-min.jpg" class="home-prodlist-imgi">
 						</a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Sweets.php">
-							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=sweet">
+							<img src="./image/product/sweet/s-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Hygene.php">
-							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=hygiene">
+							<img src="./image/product/hygiene/hy-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Shampoo.php">
-							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=shampoo">
+							<img src="./image/product/shampoo/pall-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Soap&Detergent.php">
-							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=soap">
+							<img src="./image/product/soap/sp-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Drinks.php">
-							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=drink">
+							<img src="./image/product/drink/dr-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Seasonings.php">
-							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"></a>
+					<div class="home-prodlist-img"><a href="categories.php?cat=seasoning">
+							<img src="./image/product/seasoning/cond-min.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
