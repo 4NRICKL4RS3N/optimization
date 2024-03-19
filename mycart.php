@@ -120,6 +120,17 @@ $del = $_POST['Delivery'];
 	<title>Noodles&Canned</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-CZFCXGTHXV"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-CZFCXGTHXV');
+	</script>
 </head>
 <body style="background-image: url(image/homebackgrndimg1.jpg);">
 	<div class="homepageheader">

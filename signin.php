@@ -135,6 +135,17 @@ $_POST['last_name'] = trim($_POST['last_name']);
 	<head>
 		<title>Welcome to ebuybd online shop</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-CZFCXGTHXV"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-CZFCXGTHXV');
+	</script>
 	</head>
 	<body class="home-welcome-text" style="background-image: url(image/homebackgrndimg2.png);">
 		<div class="homepageheader" style="position: inherit;">

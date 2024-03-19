@@ -5,6 +5,17 @@
 	<link rel="icon" href="image/title.png" type="image/x-icon">
 	<meta charset="uft-8">
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-CZFCXGTHXV"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-CZFCXGTHXV');
+	</script>
 </head>
 <body class="home-welcome-text" style="background-image: url(image/homebackgrndimg3.png);">
 	<div>
