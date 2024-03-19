@@ -58,7 +58,7 @@ $search_value = "";
 		gtag('config', 'G-CZFCXGTHXV');
 	</script>
 </head>
-<body style="background-image: url(image/homebackgrndimg1.jpg);">
+<body style="background-image: url(image/homebackgrndimg1-min.jpg);">
 	<div class="homepageheader">
 			<div class="signinButton loginButton">
 				<div class="uiloginbutton signinButton loginButton" style="margin-right: 40px;">
@@ -85,7 +85,7 @@ $search_value = "";
 			</div>
 			<div style="float: left; margin: 5px 0px 0px 23px;">
 				<a href="index.php">
-					<img style=" height: 75px; width: 130px;" src="image/cart.png">
+					<img style=" height: 75px; width: 130px;" src="image/cart-min.png">
 				</a>
 			</div>
 			<div id="srcheader">
