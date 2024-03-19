@@ -55,7 +55,7 @@ else {
 							<ul style="float: left;">
 								<li style="float: left; padding: 0px 25px 25px 25px;">
 									<div class="home-prodlist-img"><a href="view_product.php?pid='.$id.'">
-										<img src="../image/product/snack/'.$picture.'" class="home-prodlist-imgi" alt='.$pName'>
+										<img src="../image/product/snack/'.$picture.'" class="home-prodlist-imgi" alt='.$pName.'>
 										</a>
 										<div style="text-align: center; padding: 0 0 6px 0;"> <span style="font-size: 22px;  color:#d8f30d">'.$pName.'</span><br> <span style="font-size: 15px;  color:#d8f30d">Price: '.$price.' Php</span></div>
 									</div>
