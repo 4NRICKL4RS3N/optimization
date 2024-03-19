@@ -103,6 +103,21 @@ CREATE TABLE `orders` (
 -- Table structure for table `products`
 --
 
+CREATE TABLE `category` (
+  `id` int(11) NOT NULL,
+  `cName` varchar(100) NOT NULL,
+  `display` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+INSERT INTO `category` (`id`, `cName`, `display`) VALUES
+(1, 'noodles', 'Noodles&Canned'),
+(2, 'seasoning', 'Seasoning'),
+(3, 'drink', 'Drinks'),
+(4, 'snack', 'Snacks'),
+(5, 'sweet', 'Sweets'),
+(6, 'shampoo', 'Shampoo'),
+(7, 'soap', 'Soap&Detergent');
+
 CREATE TABLE `products` (
   `id` int(11) NOT NULL,
   `pName` varchar(100) NOT NULL,

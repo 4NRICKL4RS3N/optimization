@@ -87,7 +87,7 @@ if (!isset($_SESSION['user_login'])) {
 		<div style="padding: 20px 30px; width: 85%; margin: 0 auto;">
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/NoodlesCanned.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=noodles">
 							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi">
 						</a>
 					</div>
@@ -95,7 +95,7 @@ if (!isset($_SESSION['user_login'])) {
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Snacks.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=snack">
 							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi">
 						</a>
 					</div>
@@ -103,42 +103,42 @@ if (!isset($_SESSION['user_login'])) {
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Sweets.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=sweet">
 							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Hygene.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=hygiene">
 							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Shampoo.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=shampoo">
 							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Soap&Detergent.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=soap">
 							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Drinks.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=drink">
 							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
 			</ul>
 			<ul style="float: left;">
 				<li style="float: left; padding: 25px;">
-					<div class="home-prodlist-img"><a href="OurProducts/Seasonings.php">
+					<div class="home-prodlist-img"><a href="categories.php?cat=seasoning">
 							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"></a>
 					</div>
 				</li>
